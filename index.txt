@@ -1,2 +1,3 @@
 width£º¡°100px¡±£»
 height£º¡°100px¡±£»
+background£º¡®red¡¯£»
